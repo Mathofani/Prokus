@@ -1,0 +1,64 @@
+<style type='text/css'>
+
+	body{
+	
+	}
+	#header{
+		color:lime;
+		text-align:center;
+		background:url(1.jpg) repeat;
+		height:30%;
+		width:75%;
+		cursor:pointer;
+		border:2px solid green;
+	}
+	#menu{
+		background:url(bg-nav.jpg) repeat;
+		width:75%;
+		height:4%;
+		text-align:center;
+		border:2px solid green;
+	}
+	#content{
+		color:white;
+		text-align:center;
+		background:yellow;
+		height:100%;
+		width:100%;
+		border:2px solid green;
+		cursor:crosshair;
+	}
+	p#pse:first-letter {
+		font-size:3em;
+		float:left;
+		padding-right:5px;
+		padding-left:5px;
+	}
+	#p{
+		padding-right:5px;
+		padding-left:5px;
+	}
+	#sidebar{
+		color:white;
+		text-align:center;
+		border:2px solid green;
+		background:green;
+		height:100%;
+		width:30%;
+		float:right;
+		cursor:move;
+		background:url(3.jpg) repeat;
+	}
+	#footer{
+		color:lime;
+		text-align:center;
+		background:red;
+		height:20%;
+		border:2px solid green;
+		width:75%;
+	}
+	#body{
+		height:140%;
+		width:75%;
+	}
+</style>

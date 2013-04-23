@@ -1,0 +1,50 @@
+<style type='text/css'>
+
+	body{
+	
+	}
+	#header{
+		color:lime;
+		text-align:center;
+		background:url(1.jpg) repeat;
+		height:30%;
+		width:75%;
+		border:2px solid green;
+	}
+	#menu{
+		background:url(bg-nav.jpg) repeat;
+		width:75%;
+		height:4%;
+		text-align:center;
+		border:2px solid green;
+	}
+	#content{
+		color:black;
+		text-align:center;
+		background:white;
+		height:150%;
+		width:100%;
+		border:2px solid green;
+	}
+	#p{
+		padding-right:5px;
+		padding-left:5px;
+	}
+	#sidebar{
+		color:black;
+		text-align:center;
+		border:2px solid green;
+		background:pink;
+		height:150%;
+		width:30%;
+		float:right;
+		background:pink;
+	}
+	#footer{
+		
+	}
+	#body{
+		height:150%;
+		width:75%;
+	}
+</style>
